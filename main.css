@@ -1,0 +1,9 @@
+
+body{
+    background-image:repeating-radial-gradient(blue, yellow, green, red)}
+
+h1{
+    color: black;
+    font-family: 'Pacifico';
+    font-size: 5rem;
+}
